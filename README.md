@@ -1,6 +1,6 @@
 To test the logger you can use [jsbin](jsbin.com). You should have the following html code pasted in:
 
-'''
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -16,10 +16,10 @@ To test the logger you can use [jsbin](jsbin.com). You should have the following
 </body>
 </html>
 
-'''
+```
 
 To start the logger run following command:
 
-'''
+```
 ./websocket -listen-addr=127.0.0.1:8080 -ws-addr=127.0.0.1:8080
-'''
+```

@@ -1,4 +1,4 @@
-To test the logger you can use [jsbin](jsbin.com). You should have the following html code pasted in:
+To test the logger you can use [jsbin](https://jsbin.com/). You should have the following html code pasted in:
 
 ```
 <!DOCTYPE html>
